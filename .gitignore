@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Downloaded/generated data
+data/SMSSpamCollection
+data/cleaned_sms_dataset.csv
+
+# Generated model and reports
+models/*.joblib
+reports/*.png
+reports/*.csv
+reports/*.txt
